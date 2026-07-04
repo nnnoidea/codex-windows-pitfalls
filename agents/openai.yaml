@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Windows Pitfalls"
+  short_description: "Remember Windows shell, path, encoding, and sandbox pitfalls."
+  default_prompt: "Use $codex-windows-pitfalls to check prior Windows/Codex pitfalls before running shell or filesystem work."
